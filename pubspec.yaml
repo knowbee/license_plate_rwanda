@@ -1,6 +1,6 @@
 name: license_plate_rwanda
-description: Rwandan plate number validator.
-version: 0.0.1
+description: Validate a Rwandan car/motorcycle plate number of Diplomatic, Foreigners, National Police, Military Force, Government Projects, and Normal citizens
+version: 0.0.2
 homepage: https://github.com/knowbee/license_plate_rwanda
 
 environment:
