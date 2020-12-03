@@ -1,0 +1,17 @@
+name: license_plate_rwanda
+description: Rwandan plate number validator.
+version: 0.0.1
+homepage: https://github.com/knowbee/license_plate_rwanda
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+  flutter: ">=1.17.0 <2.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+flutter:
